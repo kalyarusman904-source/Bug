@@ -1,5 +1,5 @@
 module.exports = {
-  tokens: "9185133858:AAH0KiVKr2OVqqS7MdMMghwzO2sYFWCUqwE",      // Your Telegram Bot Token
+  tokens: "9212737914:AAGekyR_FL6qGk4G5vuqjAioLzyiMEpxJ9A",      // Your Telegram Bot Token
   owner:  "8776633775",      // Your Telegram Owner ID  (numbers only, e.g. 123456789)
   port:   "2024",      // Your Panel Port          (e.g. 3000)
   ipvps:  "202.6.204.69",      // Your VPS IP Address      (e.g. 167.71.178.226)
